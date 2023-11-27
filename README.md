@@ -9,7 +9,7 @@ What ties it all together is my unwavering commitment to improvement. Whether it
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Github Stats
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
 
   <a href="https://github.com/DecioFBMachado"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=DecioFBMachado&theme=radical&title_color=ff3068?"></a>
   <a href="https://github.com/DecioFBMachado"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=DecioFBMachado&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
